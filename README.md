@@ -1,1 +1,1 @@
-Creating of the printf function
+Creating of the printf() function used for output
